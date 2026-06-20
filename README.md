@@ -29,7 +29,7 @@ This is not a typical student portfolio. It's a scroll-driven, signal-themed dig
 
 ---
 
-## ✦ Sections
+## ✦ Sections!!!
 
 | Section | Highlights |
 |---------|-----------|

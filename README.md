@@ -138,7 +138,7 @@ sheshagiri-ece-portfolio/
 
 ---
 
-## ✦ Editing Your Data
+## ✦ Editing Your Data.
 
 Almost everything — name, skills, projects, certifications, timeline, social links — lives in one file:
 
@@ -150,7 +150,7 @@ Edit values there and the entire site updates automatically.
 
 ---
 
-## ✦ License
+## ✦ License.
 
 MIT — built for academic and professional showcase.
 

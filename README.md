@@ -29,7 +29,7 @@ This is not a typical student portfolio. It's a scroll-driven, signal-themed dig
 
 ---
 
-## ✦ Sections!!!
+## ✦ Sections!!!👑
 
 | Section | Highlights |
 |---------|-----------|
@@ -46,7 +46,7 @@ This is not a typical student portfolio. It's a scroll-driven, signal-themed dig
 
 ---
 
-## ✦ Premium Effects
+## ✦ Premium Effects🗽
 
 - 🖱️ Custom magnetic cursor
 - 🌀 "Signal Calibration" animated loading screen
@@ -59,7 +59,7 @@ This is not a typical student portfolio. It's a scroll-driven, signal-themed dig
 
 ---
 
-## ✦ Getting Started
+## ✦ Getting Started🌠
 
 ```bash
 npm install
@@ -76,8 +76,8 @@ npm run preview
 
 ---
 
-## ✦ Deployment — GitHub Actions
-
+## ✦ Deployment — GitHub Actions🌌
+🪐
 This repo auto-deploys to GitHub Pages via `.github/workflows/deploy.yml` on every push to `main`.
 
 **One-time setup:**
